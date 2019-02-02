@@ -9,9 +9,9 @@ base:
   redis:
     host: 127.0.0.1
     port: 6379
-    password: hyman
+    password: 224610asd
   zipkin:
-    url: http://111.231.192.110:10003/
+    url: http://localhost:10003/
 
 management:
   endpoints:
